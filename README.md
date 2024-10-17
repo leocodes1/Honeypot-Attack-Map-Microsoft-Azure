@@ -9,7 +9,6 @@ Features
 
 
 Objective
-
 The purpose of this project is to enhance threat detection capabilities by leveraging honeypot technology and cloud-based visualization tools. The setup provides a comprehensive view of global cyber threats, allowing for a better understanding of attack patterns and potential vulnerabilities.
 
 CREDIT: https://www.youtube.com/watch?v=RoZeVbbZ0o0&t=302s 
